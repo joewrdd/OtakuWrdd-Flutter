@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944934166061-lf5a14i93q5odfoqd1ooqb9dqapbadlf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944934166061-lf5a14i93q5odfoqd1ooqb9dqapbadlf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPEkOLH72DxSDuNcVMS5Wd8hYdfmSN1SY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944934166061</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wrddanime</string>
+	<key>PROJECT_ID</key>
+	<string>wrddanime</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wrddanime.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944934166061:ios:52f4f7ae2a5fe2c80ee2a4</string>
+</dict>
+</plist>

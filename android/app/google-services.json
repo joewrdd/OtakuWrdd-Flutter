@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944934166061",
+    "project_id": "wrddanime",
+    "storage_bucket": "wrddanime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944934166061:android:1d4313ef1ea89a720ee2a4",
+        "android_client_info": {
+          "package_name": "com.example.wrddanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944934166061-loqo7op7td4ntct3tgu7np1o0gn2fah5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD085ZLyoLcvwuALa7S6_BMwZX3AS6h044"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944934166061-loqo7op7td4ntct3tgu7np1o0gn2fah5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
