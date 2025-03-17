@@ -18,7 +18,7 @@ Future<void> main() async {
   await GetStorage.init();
   FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-  await dotenv.load(fileName: ".env");
+  await dotenv.load(fileName: ".env.local");
   Get.put(AuthenticationRepository());
   runApp(const MyApp());
 }
