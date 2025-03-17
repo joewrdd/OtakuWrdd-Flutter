@@ -34,7 +34,7 @@ firebase.json
 .svn/
 .swiftpm/
 migrate_working_dir/
-..env
+.env
 
 # Symbolication related
 app.*.symbols
