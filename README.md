@@ -53,6 +53,7 @@ A comprehensive anime and manga tracking application built with Flutter and Fire
 - Firebase Storage
 - MyAnimeList API integration
 - Real-time data synchronization
+- Stripe-Payment GateAway
 
 ## Getting Started
 
@@ -60,6 +61,7 @@ A comprehensive anime and manga tracking application built with Flutter and Fire
 
 - Flutter (latest version)
 - Firebase account
+- Stripe
 - Android Studio / VS Code
 - Git
 
@@ -246,4 +248,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Jikan API](https://jikan.moe/) for providing a robust API
 - [Flutter](https://flutter.dev/) for the amazing framework
 - [Firebase](https://firebase.google.com/) for backend services
+- Stripe (Payment Integration)
 - All contributors who have helped improve this project
