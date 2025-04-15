@@ -144,6 +144,10 @@ lib/
 - Favorites collection
 - Watch/read history
 
+### Deployment
+
+- Soon Firebase Deployment 
+
 ## Screenshots
 
 <div align="center">
