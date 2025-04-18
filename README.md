@@ -1,5 +1,16 @@
 # OtakuWrdd - Flutter Anime & Manga Tracking App
 
+<div align="center">
+
+![OtakuWrdd Banner](assets/pokemon.png)
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-2.18+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![GetX](https://img.shields.io/badge/GetX-StateManagement-7E57C2?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/get)
+[![Anime API](https://img.shields.io/badge/Anime%20API-Jikan%20REST-FF69B4?style=for-the-badge&logo=graphql&logoColor=white)](https://jikan.moe/)
+
+</div>
+
 A comprehensive anime and manga tracking application built with Flutter and Firebase, offering users a seamless experience to discover, track, and manage their anime and manga collections.
 
 ## Features
