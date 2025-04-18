@@ -6,7 +6,8 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-2.18+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![GetX](https://img.shields.io/badge/GetX-StateManagement-7E57C2?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/get)
+[![GetX](https://img.shields.io/badge/GetX-State%20Management-4B4453?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/get)
+[![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Anime API](https://img.shields.io/badge/Anime%20API-Jikan%20REST-FF69B4?style=for-the-badge&logo=graphql&logoColor=white)](https://jikan.moe/)
 
 </div>
