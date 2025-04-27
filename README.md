@@ -12,7 +12,7 @@
 
 </div>
 
-A comprehensive anime and manga tracking application built with Flutter and Firebase, offering users a seamless experience to discover, track, and manage their anime and manga collections.
+A comprehensive anime and manga tracking application built with Flutter and Firebase, offering users a seamless experience to discover, track, and manage their anime and manga collections. (Accepted Payments & App Store Release Soon )
 
 ## Features
 
